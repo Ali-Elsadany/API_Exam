@@ -13,14 +13,4 @@ void main(){
   )
   );
 }
-/*
-void main (){
-  runApp(MaterialApp(
-    title: 'route',
-    debugShowCheckedModeBanner: false,
-    home: Screen(),
-  ));
 
-}
-
- */
